@@ -1,0 +1,29 @@
+0,1,2
+"P.O.#
+Invoice Date",Due Date,
+"29/01/2019
+2430/2019",26/04/2019,
+"Bill To
+From",Ship To,
+"Kavindra Mannan
+Saffron Design
+77 Namrata Bldg
+27,DIf City,Gupta","Kavindra Mannan
+264, Abdul Rehman",
+"Delhi,Delhi 400077
+Delhi,Delhi 40003","Mumbai,Bihar 40009",
+"Qty
+Description",Unit Price,Amount
+"Frontend design restructure
+1","9,999.00","9,999.00"
+"2
+Custom icon package",975.00,"1,950.00"
+"3
+Gandhi mouse pad",99.00,297.00
+,"Subtotal
+12,246.00","Subtotal
+12,246.00"
+,"GST 12.0%
+1,469.52","GST 12.0%
+1,469.52"
+Total,"13,715.52","13,715.52"
